@@ -1,0 +1,11 @@
+# This is the main configuration file for Sugarcane.
+# Sugarcane contains many breaking changes and settings, so know what you are doing!
+# You have been warned!
+
+verbose: false
+brand-name: Sugarcane
+config-version: 1
+settings:
+  log-player-login-location: true
+  disableEntityStuckChecks: false
+  fix-protocollib: true
